@@ -1,18 +1,18 @@
 
-# 🚗 US Traffic Accident Analysis (EDA)
+# US Traffic Accident Analysis (EDA)
 
 This project analyzes US traffic accident data to uncover patterns related to time, weather, and road conditions. It also visualizes accident hotspots across the country using an interactive Folium heatmap.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 - **Source**: [Kaggle - US Accidents EDA](https://www.kaggle.com/code/harshalbhamare/us-accident-eda)
 - **Records**: ~2.8 million accidents (2016–2021)
 - **Features**: Time, location, weather, severity, road features, etc.
 
 ---
 
-## 🔍 Project Objectives
+##  Project Objectives
 
 - Analyze accident frequency by **hour**, **day**, and **month**
 - Study the impact of **weather conditions** on accident risk
@@ -21,7 +21,7 @@ This project analyzes US traffic accident data to uncover patterns related to ti
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python (Jupyter Notebook)
 - Libraries:
@@ -31,7 +31,7 @@ This project analyzes US traffic accident data to uncover patterns related to ti
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Peak accidents occur during **rush hours (7–9 AM and 4–6 PM)**
 - Most accidents happen on **weekdays**, especially **Friday**
@@ -41,7 +41,7 @@ This project analyzes US traffic accident data to uncover patterns related to ti
 
 ---
 
-## 🌍 Output Files
+##  Output Files
 
 - `accident_analysis.ipynb` → Jupyter Notebook
 - `accident_hotspots_map.html` → Interactive map of accident density
@@ -49,7 +49,7 @@ This project analyzes US traffic accident data to uncover patterns related to ti
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install requirements:
    ```bash
@@ -67,7 +67,7 @@ This project analyzes US traffic accident data to uncover patterns related to ti
 
 ---
 
-## 👩 Author
+##  Author
 
 - **Netika Tiwari**
 - Internship Project: **ProDigy Infotech**
