@@ -45,8 +45,6 @@ This project analyzes US traffic accident data to uncover patterns related to ti
 
 - `accident_analysis.ipynb` → Jupyter Notebook
 - `accident_hotspots_map.html` → Interactive map of accident density
-- `accident_report.pdf` → Report version of the notebook (for presentation or print)
-
 ---
 
 ##  How to Run
